@@ -1,0 +1,3 @@
+/home/harry/projects/private/linux-api/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/harry/projects/private/linux-api/cmake-build-debug/CMakeFiles/linux_api.dir
+/home/harry/projects/private/linux-api/cmake-build-debug/CMakeFiles/edit_cache.dir
